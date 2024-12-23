@@ -27,7 +27,9 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
 
    ```
 
-3. **Inicie o servidor de desenvolvimento**:
+3. **Crie o arquivo .env com as variáveis de ambiente necessárias**:
+
+4. **Inicie o servidor de desenvolvimento**:
    ```bash
    node app.js
    ```
